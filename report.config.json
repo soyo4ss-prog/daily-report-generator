@@ -1,0 +1,10 @@
+﻿{
+  "git_paths": ["C:/work/repoA"],
+  "svn_paths": ["C:/svn/project"],
+  "notes_dir": "notes",
+  "output_dir": "reports",
+  "discover": false,
+  "discover_roots": [],
+  "include_working": true,
+  "format": "html"
+}
